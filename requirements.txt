@@ -1,6 +1,5 @@
 flask
-flask-caching
+gunicorn
 tweepy
 pandas
 python-telegram-bot
-gunicorn
