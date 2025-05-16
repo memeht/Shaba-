@@ -1,5 +1,0 @@
-flask
-gunicorn
-tweepy
-pandas
-python-telegram-bot
